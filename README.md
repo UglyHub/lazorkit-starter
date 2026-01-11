@@ -1,8 +1,17 @@
 # 🚀 LazorKit Starter Template
 
+> **Created by [Chiderah Onwumelu](https://github.com/Uglyhub) for Superteam Vietnam LazorKit Bounty**
+
 A complete Next.js starter template for integrating LazorKit's passkey wallet infrastructure on Solana. No seed phrases, no wallet installations required - just seamless Web3 authentication using biometrics.
 
-**Created by:** Chiderah
+## 🌐 Live Demo
+
+**👉 [View Live Demo](https://lazorkit-starter-phi.vercel.app)**
+
+Try it yourself:
+- Connect with passkey authentication
+- Explore gasless transaction features
+- See production-ready integration
 
 ## ✨ Features
 
@@ -33,7 +42,7 @@ This starter template shows developers how to:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/lazorkit-starter.git
+git clone https://github.com/Uglyhub/lazorkit-starter.git
 cd lazorkit-starter
 
 # Install dependencies
@@ -85,7 +94,7 @@ export const LAZORKIT_CONFIG = {
   paymasterConfig: {
     paymasterUrl: 'https://kora.devnet.lazorkit.com',
   },
-} as const;
+};
 ```
 
 **For Production:**
@@ -169,7 +178,13 @@ useEffect(() => {
 
 ## 🚀 Deployment
 
-### Deploy to Vercel
+### Live Production Site
+
+This project is deployed at: **[https://lazorkit-starter-phi.vercel.app](https://lazorkit-starter-phi.vercel.app)**
+
+### Deploy Your Own Version
+
+Want to deploy your own?
 ```bash
 # Install Vercel CLI
 npm i -g vercel
@@ -223,4 +238,4 @@ MIT License - feel free to use this starter in your projects!
 
 **Need help?** Open an issue or reach out on Telegram!
 
-Built with ❤️ for the Solana community
+Built with ❤️ for the Solana community by **Chiderah**
