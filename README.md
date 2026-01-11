@@ -2,6 +2,8 @@
 
 A complete Next.js starter template for integrating LazorKit's passkey wallet infrastructure on Solana. No seed phrases, no wallet installations required - just seamless Web3 authentication using biometrics.
 
+**Created by:** Chiderah
+
 ## ✨ Features
 
 - **🔐 Passkey Authentication** - Login with Face ID, Touch ID, or Windows Hello
@@ -209,6 +211,13 @@ MIT License - feel free to use this starter in your projects!
 - Built for the Superteam Vietnam LazorKit Bounty
 - Powered by [LazorKit](https://lazorkit.com)
 - Built with [Next.js](https://nextjs.org) and [Tailwind CSS](https://tailwindcss.com)
+
+## 👨‍💻 Author
+
+**Chiderah Onwumelu** - Blockchain Developer
+
+- GitHub: [@Uglyhub](https://github.com/UglyHub)
+- LinkedIn: [Chiderah Onwumelu](https://www.linkedin.com/in/chiderah-onwumelu-4b244a223/)
 
 ---
 
